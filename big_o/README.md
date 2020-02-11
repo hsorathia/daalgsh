@@ -11,6 +11,6 @@ better prepared for when it comes up in interviews or interview practice.
 2. Paste in the repo name `https://github.com/hsorathia/daalgsh/tree/master/big_o`
 3. Click on the `.ipynb` file.
 4. Open the file with Binder, by clicking the 3 circles.
- - If the binder asks for a kernal, select Python 3, and click on "set kernel"
+   - If the binder asks for a kernal, select Python 3, and click on "set kernel"
 
 Done! The notebook should load shortly, where you can follow my tutorial.
